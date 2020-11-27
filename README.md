@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I am Yana ✌
+### My Discord Yana#9446 
+### Please feel free to contact me 🐾
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Werever1001&theme=blueberry)](https://github.com/Werever1001/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Werever1001&show_icons=true&theme=tokyonight)
 <!--
