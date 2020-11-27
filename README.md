@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Werever1001)](https://github.com/Werever1001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Werever1001&theme=tokyonight)](https://github.com/Werever1001/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Werever1001&show_icons=true&theme=tokyonight)
 <!--
 **Werever1001/Werever1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
